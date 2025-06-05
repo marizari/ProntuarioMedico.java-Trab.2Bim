@@ -1,0 +1,9 @@
+============================
+Nome do paciente: Maria Eduarda Pacheco Delazari
+CPF: 240017
+Médico: Diogo Ranguetti
+Especialidade: Professor do ALFA
+Data: 01/06/2025
+Diagnóstico: Trabalhos AVA
+Prescrição: Fazer os trabalhos ;-;
+
